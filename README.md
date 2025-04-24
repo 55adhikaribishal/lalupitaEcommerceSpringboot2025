@@ -1,5 +1,5 @@
-Welcome to My Ecommerce project for La lupita market. It is build using Angular 16, Spring Boot 3, Spring Security 6, Angular Material UI,  MySQL database along with Stripe for payment integration.
-Customer Module:
+**Welcome to My Ecommerce project for La lupita market. It is build using Angular 16, Spring Boot 3, Spring Security 6, Angular Material UI,  MySQL database along with Stripe for payment integration.**
+**Customer Module:**
  Customers can securely log in, generate tokens, and access authenticated APIs through JWT-based authentication and authorization system.
 
 All the products added by admin are visible in customer dashboard and they can see product details along with the customer rating and Frequently asked questions for those products.
@@ -15,7 +15,7 @@ There is favorite tab where customer can add the products to favorite.
 Customer can update their profile details and upload their image as well.
 
 They can track their order by using tracking ID.
-Admin Module:
+**Admin Module:**
 Admin can securely log in, generate tokens, and access authenticated APIs, using JWT-based authentication and authorization system.
 
 Admin can create and update new categories for the products
