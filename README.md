@@ -5,7 +5,7 @@ Please watch this video for demo **https://www.youtube.com/watch?v=AOD99pfOclI**
 **Please download the La Lupita demo and readme file if you want to see demo scrreen shots.** This is still at starting phase. I have deployed both angular and spring boot by creating docker image
 
 **Customer Module:**
- Customers can securely log in, generate tokens, and access authenticated APIs through JWT-based authentication and authorization system.
+ Customers can securely log in, generate tokens, and access authenticated APIs through **JWT-based authentication and authorization** system with **role based Admin and Customer**.
 
 All the products added by admin are visible in customer dashboard and they can see product details along with the customer rating and Frequently asked questions for those products.
 
