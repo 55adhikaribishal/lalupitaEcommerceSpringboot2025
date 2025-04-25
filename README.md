@@ -2,7 +2,7 @@
 
 Please watch this video for demo **https://www.youtube.com/watch?v=AOD99pfOclI**
 
-**Please download the La Lupita demo and readme file if you want to see demo scrreen shots.** This is still at starting phase.
+**Please download the La Lupita demo and readme file if you want to see demo scrreen shots.** This is still at starting phase. I have deployed both angular and spring boot by creating docker image
 
 **Customer Module:**
  Customers can securely log in, generate tokens, and access authenticated APIs through JWT-based authentication and authorization system.
