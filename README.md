@@ -1,4 +1,4 @@
-**Welcome to My Ecommerce project for La lupita market. It is build using Angular 16, Spring Boot 3, Spring Security 6, Angular Material UI,  MySQL database along with Stripe for payment integration.**
+**Welcome to My Ecommerce project for La lupita market. It is build using Angular 16, Spring Boot 3, Spring Security 6,Jwt token, Angular Material UI,  MySQL database along with Stripe for payment integration.**
 
 Please watch this video for demo **https://www.youtube.com/watch?v=AOD99pfOclI**
 
